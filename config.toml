@@ -8,11 +8,12 @@ paginate = 3
 paginatePath = "page"
 
 # Theme to use
-theme = "hugo-bootstrap"
+theme = "framework-hugo"
 
 [taxonomies]
   tag = "tags"
   category = "categories"
+  author = "authors"
 
 # Google analytics
 # googleAnalytics = ""
