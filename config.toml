@@ -1,5 +1,4 @@
-baseurl = "https://example.com/"
-title = "Floflis' Blog"
+baseurl = "https://floflis.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -20,6 +19,8 @@ theme = "framework-hugo"
 
 [languages.en]
   languageName = "English"
+  title = "Floflis' Blog"
+  copyright = "(c) 2011-2019 Floflis OS"
 
   # Replace the default footer message with a localized message
   # copyright = "Hugo template made with ❤ by Xzya"
@@ -33,8 +34,8 @@ theme = "framework-hugo"
     name = "Manuals/Documentation"
     weight = 2
   [[languages.en.menu.main]]
-    url = "https://github.com/Floflis/blog-source"
-    name = "Source"
+    url = "https://github.com/Floflis/blog-source/"
+    name = "Source-code"
     weight = 3
 
 [languages.es]
