@@ -6,7 +6,7 @@ categories: ["logs"]
 tags: ["logs", "blog"]
 ---
 
-![](/img/posts/our-blog-is-working-and-fully-personalized.png)
+![](/blog/img/posts/our-blog-is-working-and-fully-personalized.png)
 
 Yesterday I've left the whole day working on Floflis' blog. And today, at morning, in less than two hours I've personalized the whole blog.
 
