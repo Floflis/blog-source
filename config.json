@@ -1,0 +1,142 @@
+{
+  "baseurl": "https://floflis.github.io/blog/",
+  "languageCode": "en-us",
+  "defaultContentLanguage": "en",
+  "copyright": "(c) 2011-2019 Floflis OS",
+  "favicon": "/blog/icon.ico",
+  "paginate": 3,
+  "paginatePath": "page",
+  "theme": "framework-hugo",
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories",
+    "author": "authors"
+  },
+  "languages": {
+    "en": {
+      "languageName": "English",
+      "title": "Floflis' Blog",
+      "menu": {
+        "main": [
+          {
+            "url": "https://floflis.github.io/",
+            "name": "Go to site",
+            "weight": 1
+          },
+          {
+            "url": "https://floflis.github.io/docs/",
+            "name": "Manuals/Documentation",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/Floflis/blog-source/",
+            "name": "Source-code",
+            "weight": 3
+          }
+        ]
+      }
+    },
+    "es": {
+      "languageName": "Español",
+      "title": "Blog de Floflis",
+      "menu": {
+        "main": [
+          {
+            "url": "https://floflis.github.io/",
+            "name": "Ir al sitio",
+            "weight": 1
+          },
+          {
+            "url": "https://floflis.github.io/docs/",
+            "name": "Manuales/Documentación",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/Floflis/blog-source/",
+            "name": "Código-fuente",
+            "weight": 3
+          }
+        ]
+      }
+    },
+    "de": {
+      "languageName": "Deutsch",
+      "title": "Floflis 'Blog",
+      "menu": {
+        "main": [
+          {
+            "url": "https://floflis.github.io/",
+            "name": "Gehe zur Seite",
+            "weight": 1
+          },
+          {
+            "url": "https://floflis.github.io/docs/",
+            "name": "Handbücher/Dokumentation",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/Floflis/blog-source/",
+            "name": "Quellcode",
+            "weight": 3
+          }
+        ]
+      }
+    },
+    "eo": {
+      "languageName": "Esperanto",
+      "title": "Floflis 'Blog",
+      "menu": {
+        "main": [
+          {
+            "url": "https://floflis.github.io/",
+            "name": "Iru al retejo",
+            "weight": 1
+          },
+          {
+            "url": "https://floflis.github.io/docs/",
+            "name": "Manlibroj/Dokumentado",
+            "weight": 2
+          },
+          {
+            "url": "https://github.com/Floflis/blog-source/",
+            "name": "Fonta-kodo",
+            "weight": 3
+          }
+        ]
+      }
+    }
+  },
+  "permalinks": {
+    "post": "/:year/:month/:title/"
+  },
+  "params": {
+    "mainSections": [
+      "post"
+    ],
+    "author": "Floflis Team",
+    "sidebar": {},
+    "header": {},
+    "footer": {}
+  },
+  "outputFormats": {
+    "SearchIndex": {
+      "mediaType": "application/json",
+      "baseName": "searchindex",
+      "isPlainText": true,
+      "notAlternative": true
+    }
+  },
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS",
+      "SearchIndex",
+      "JSON"
+    ],
+    "section": [
+      "HTML",
+      "RSS",
+      "JSON"
+    ]
+  }
+}
