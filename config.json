@@ -2,7 +2,7 @@
   "baseurl": "https://floflis.github.io/blog/",
   "languageCode": "en-us",
   "defaultContentLanguage": "en",
-  "copyright": "(c) 2011-2019 Floflis OS",
+  "copyright": "(c) 2019-2020 Floflis Platform",
   "favicon": "/blog/icon.ico",
   "paginate": 3,
   "paginatePath": "page",
