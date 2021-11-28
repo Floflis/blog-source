@@ -22,8 +22,7 @@ Very lightweight, can run from a router to even a Nintendo DS. Focused on IoT de
 * Directory scheme (tree, /1 folder)
 * CLI web browser
 * NodeJS
-* CJDNS + Yggdrasil
-* Dat protocol
+* Yggdrasil
 
 ## Substratum
 

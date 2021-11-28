@@ -34,4 +34,4 @@ BIOS/UEFI
 
 I'll write the complete and official guide about Layers on Floflis Documentation.
 
-Read more about Floflis Layers [here](http://localhost:1313/blog/2019/07/floflis-layers-recipe-core-substratum-base-ultimate/).
+Read more about Floflis Layers [here](../../../2019/07/floflis-layers-recipe-core-substratum-base-ultimate/).
