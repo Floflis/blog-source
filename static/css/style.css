@@ -1,0 +1,95 @@
+a {
+	outline: none;		// TODO: provide a focus styling;
+    /* color: #289fcc; */
+    color: #105e9a;
+}
+
+.badge-primary {
+    background-color: #105e9a;
+}
+
+.navbar-brand img {
+	max-width: inherit!important;
+}
+
+.blog-header, .blog-post, .blog-pagination {
+  margin-bottom: 2rem;
+}
+
+/* Make sure the image size is reasonable. */
+.blog-post img,
+.blog-post video {
+  max-width: 100%;
+}
+
+body {
+	min-height: 100vh
+}
+
+.footer {
+	height: 55px;
+	margin-top: 2rem;
+}
+
+.footer p {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.share a {
+	text-decoration: none;
+}
+
+.blog-post-date, .blog-post-translations, .blog-post-categories {
+	display: inline;
+}
+
+.blog-post-translations a {
+	padding-right: 4px;
+}
+
+.blog-post header,
+.blog-main header {
+	margin-bottom: 1em;
+}
+.blog-post header h2,
+.blog-main header h2 {
+	margin-bottom: 0;
+}
+
+/* figure */
+
+figure {
+	text-align: center;
+	margin: 0 0 1em;
+	padding: 1em 1em 0;
+	background-color: #f8f9fa;
+	border-radius: .4em;
+}
+
+figure img {
+	border-radius: .4em;
+}
+
+figure p {
+	text-align: center;
+	font-size: 90%;
+	color: gray;
+	padding: .5em 0;
+}
+
+.rero21-iframe {
+    width: 60%;
+    margin: 0 auto 1em auto;
+    border-radius: .4em;
+    background-color: #f8f9fa;
+}
+
+.rero21-iframe p {
+    text-align: center;
+    line-height: 1em;
+}
+
+.smallcaps {
+  font-variant: small-caps;
+}

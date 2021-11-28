@@ -1,9 +1,10 @@
 {
-  "baseurl": "https://floflis.github.io/blog/",
+  "baseurl": "/",
+  "relativeURLs": "true",
   "languageCode": "en-us",
   "defaultContentLanguage": "en",
-  "copyright": "(c) 2019-2020 Floflis Platform",
-  "favicon": "/blog/icon.ico",
+  "copyright": "(c) 2019-2021 Floflis Platform",
+  "favicon": "/icon.ico",
   "paginate": 3,
   "paginatePath": "page",
   "theme": "framework-hugo",
@@ -14,7 +15,7 @@
   },
   "languages": {
     "en": {
-      "languageName": "English",
+      "languageName": "🇬🇧 English",
       "title": "Floflis' Blog",
       "menu": {
         "main": [
@@ -37,7 +38,7 @@
       }
     },
     "es": {
-      "languageName": "Español",
+      "languageName": "🇪🇸 Español",
       "title": "Blog de Floflis",
       "menu": {
         "main": [
@@ -60,7 +61,7 @@
       }
     },
     "de": {
-      "languageName": "Deutsch",
+      "languageName": "🇩🇪 Deutsch",
       "title": "Floflis 'Blog",
       "menu": {
         "main": [
@@ -82,24 +83,24 @@
         ]
       }
     },
-    "eo": {
-      "languageName": "Esperanto",
-      "title": "Floflis 'Blog",
+    "pt": {
+      "languageName": "🇵🇹 Português",
+      "title": "Blog do Floflis",
       "menu": {
         "main": [
           {
             "url": "https://floflis.github.io/",
-            "name": "Iru al retejo",
+            "name": "Ir ao site",
             "weight": 1
           },
           {
             "url": "https://floflis.github.io/docs/",
-            "name": "Manlibroj/Dokumentado",
+            "name": "Manual/Documentação",
             "weight": 2
           },
           {
             "url": "https://github.com/Floflis/blog-source/",
-            "name": "Fonta-kodo",
+            "name": "Código-fonte",
             "weight": 3
           }
         ]

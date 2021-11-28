@@ -10,27 +10,27 @@ Day 1 I came to Floflis' GitHub organization and openned its "meta" repo, which 
 
 Organized issues page:
 
-![](/blog/img/posts/development-log-01-03-july-2019/1.png)
+![](../../../img/posts/development-log-01-03-july-2019/1.png)
 
 Organized build 071 milestone:
 
-![](/blog/img/posts/development-log-01-03-july-2019/2.png)
+![](../../../img/posts/development-log-01-03-july-2019/2.png)
 
 Also, did a audit with Lynis, for the security report of July:
 
-![](/blog/img/posts/development-log-01-03-july-2019/3.png)
+![](../../../img/posts/development-log-01-03-july-2019/3.png)
 
 Tried to compile/install Stacer (didn't worked), for cleanning junk storage usage:
 
-![](/blog/img/posts/development-log-01-03-july-2019/4.png)
+![](../../../img/posts/development-log-01-03-july-2019/4.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/5.png)
+![](../../../img/posts/development-log-01-03-july-2019/5.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/6.png)
+![](../../../img/posts/development-log-01-03-july-2019/6.png)
 
 And started to create the bash script for Floflis Installer:
 
-![](/blog/img/posts/development-log-01-03-july-2019/7.png)
+![](../../../img/posts/development-log-01-03-july-2019/7.png)
 
 Yes, I don't want to depend on Floflis Central to install Floflis, in favour of Floflis Core; making Floflis Central a simple GUI/UI for the Installer. And it is amazing: bash script is easier than JavaScript! ❤ I didn't thought programming for CLI would be easier than programming for Web.
 
@@ -92,43 +92,35 @@ Bash identifies Floflis Central had created `temp2.txt`, and goes to next step; 
 
 Day 2 I've worked more on the bash installer, and tunned a few things on Floflis itself:
 
-![](/blog/img/posts/development-log-01-03-july-2019/8.png)
+![](../../../img/posts/development-log-01-03-july-2019/8.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/9.png)
+![](../../../img/posts/development-log-01-03-july-2019/9.png)
 
 Did a security audit of Floflis Central's NPM dependencies:
 
-![](/blog/img/posts/development-log-01-03-july-2019/16.png)
+![](../../../img/posts/development-log-01-03-july-2019/16.png)
 
 About to replace KeePassXC with KeeWeb (Electron version), but both KeePassXC and Minetest are amazingly smaller compared to a Electron app:
 
-![](/blog/img/posts/development-log-01-03-july-2019/17.png)
+![](../../../img/posts/development-log-01-03-july-2019/17.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/18.png)
-
-![](/blog/img/posts/development-log-01-03-july-2019/19.png)
+![](../../../img/posts/development-log-01-03-july-2019/19.png)
 
 Yes, I need to make any Floflis' Electron apps to depend on global shared modules instead of duplicing their own.
 
 Created a icon/shortcut for Floflis Central, on Explore menu (pinned and on lists) and desktop/launcher.
 
-![](/blog/img/posts/development-log-01-03-july-2019/10.png)
+![](../../../img/posts/development-log-01-03-july-2019/10.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/11.png)
+![](../../../img/posts/development-log-01-03-july-2019/12.png)
 
-![](/blog/img/posts/development-log-01-03-july-2019/12.png)
+Replaced `home` to `tree` link in Explore menu.
 
-Replaced `home` to `tree` link in Explore menu:
-
-![](/blog/img/posts/development-log-01-03-july-2019/13.png)
-
-Renamed `System Settings` to simply `Settings`, and replaced its link to Floflis Central:
-
-![](/blog/img/posts/development-log-01-03-july-2019/14.png)
+Renamed `System Settings` to simply `Settings`, and replaced its link to Floflis Central.
 
 But Floflis Central isn't openning from these links:
 
-![](/blog/img/posts/development-log-01-03-july-2019/15.png)
+![](../../../img/posts/development-log-01-03-july-2019/15.png)
 
 I'll need to create a executable bash script for openning Floflis Central, as Cinnamon links only accepts executables and not commands.
 
