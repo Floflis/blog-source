@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: Floflis launch has been postponed to July
 date: 2019-06-27T09:56:16-04:00
 tags: ["development", "logs"]

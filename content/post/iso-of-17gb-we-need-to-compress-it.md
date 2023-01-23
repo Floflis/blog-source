@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: ISO of 17.4 GB! We need to compress it
 date: 2019-07-01T16:13:27-04:00
 tags: ["development", "logs"]

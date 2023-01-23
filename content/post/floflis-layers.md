@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: Floflis' Layers (Recipe, Core, Substratum, Base, Ultimate)
 date: 2019-07-01T16:44:03-04:00
 tags: ["development", "logs"]

@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: "New layers for Floflis: DNA and Home"
 date: 2019-07-05T09:36:00-04:00
 tags: ["development", "logs"]

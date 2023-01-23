@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: Development log - 01-03 July 2019
 date: 2019-07-03T22:30:58-04:00
 tags: ["development", "logs"]

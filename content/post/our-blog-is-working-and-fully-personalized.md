@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: Our blog is working and fully personalized
 date: 2019-06-24T11:42:59-04:00
 categories: ["logs"]

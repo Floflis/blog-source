@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 title: Updated blog with translations and RSS/JSON feed
 date: 2019-06-25T22:52:42-04:00
 categories: ["logs"]
